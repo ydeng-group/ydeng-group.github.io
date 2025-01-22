@@ -32,8 +32,8 @@
 #-------------------------------------------------------------------------------------
 # Principal Investigator; many fields not relevant, they always apply to the PI for their own page
 #-------------------------------------------------------------------------------------
-- id: Xixiang_Deng # used internally to identify this person, e.g., in a Newsfeed post "people" field
-  name: Xixiang Deng # as display on the web page People item
+- id: Yixiang_Deng # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Yixiang Deng # as display on the web page People item
   role: Assistant Professor # will appear next to name
   image: assets/images/vippng.com-face-silhouette-png-56170.png # can be external link
   orcid: null

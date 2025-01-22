@@ -1,15 +1,12 @@
 ---
 layout: base/home
-title:  Computational Intelligence for Dynamical Systems Laboratory
+title: Computational Intelligence for Dynamical Systems Laboratory
 subtitle: University of Delaware # smaller font size, shown below title+title2
 # banner_image: /assets/images/doe-lab.jpg
 permalink: /
 ---
 
-<style>mark{ color:rgb(200,0,0); background-color:white; }</style>
-> <mark>This is a demo site for the</mark> [umich-labs](https://github.com/wilsonte-umich/umich-labs) <mark> Jekyll theme for GitHub Pages. It is not intended as a real laboratory web page. When you copy the template, replace the contents of this and other files with your information.</mark>
-
-Welcome to the web site of the John Doe laboratory.
+Welcome to the web site of the Computational Intelligence for Dynamical Systems Laboratory.
 Here is some general information about our group
 and what we do.
 

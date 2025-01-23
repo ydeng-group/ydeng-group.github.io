@@ -3,7 +3,7 @@ date: 2024-12-13
 title: Xinyang Receives NSF NRT-MIDAS Fellowship
 subtitle: Awarded for Two Years of Research Excellence
 description: null
-event_type: newsfeed # primary type of the event, used to create the small, colored post callout
+event_type: post # primary type of the event, used to create the small, colored post callout
 banner_image_source: project=project2 # the item whose banner image will be adopted by this event
 badges: null # e.g. person=John_Doe, project=project1 (no spaces)
 ---

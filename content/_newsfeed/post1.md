@@ -1,9 +1,9 @@
 ---
-date: 2021-06-15
-title: Paper published
-subtitle: This is a short description of news post number 1
-description: This is a bit more of a description of news post number 1
-event_type: publication # primary type of the event, used to create the small, colored post callout
+date: 2024-12-13
+title: Xinyang Receives NSF NRT-MIDAS Fellowship
+subtitle: Awarded for Two Years of Research Excellence
+description: null
+event_type: award # primary type of the event, used to create the small, colored post callout
 banner_image_source: project=project2 # the item whose banner image will be adopted by this event
 badges: # e.g. person=John_Doe, project=project1 (no spaces)
   - project=project1
@@ -14,6 +14,6 @@ badges: # e.g. person=John_Doe, project=project1 (no spaces)
   - resource=cell_protocol
 ---
 
-We are happy to report about a research publication.
+We are excited to announce that Xinyang has been awarded with the [NSF NRT-MIDAS fellowship](https://sites.udel.edu/midas-nrt/) for a two-year period. 
 
-Congratulations, Lab Member!
+Congratulations to Xinyang for this remarkable achievement, and we look forward to the impactful work ahead!

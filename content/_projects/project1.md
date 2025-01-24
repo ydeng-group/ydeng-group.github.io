@@ -1,26 +1,14 @@
 ---
-title: Research Project 1
-subtitle: This is my first project
-description: This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project.
-order: 2
+title: Efficient Deep Learning Models for Biomaterial Discovery
+subtitle: null
+description: This project focuses on developing efficient and cost-effective deep learning models for biomaterial discovery like antibody design. A key aspect of the project is curating a diverse, high-quality datasets that reflect the complexity and heterogeneity of biomedical compounds such as antibodies.
+order: 1
 active: true
-card_image: "assets/images/chemical-reaction-science-chemistry.jpg"
-card_title: null # used if card_image is null; defaults to title
-categories: 
-    - Project Leader
-    - Bioinformatics
+card_image: null
+card_title: card_image # used if card_image is null; defaults to title
+categories: null
 ---
 
 <h4>Overview</h4>
 
-This is complete description of my first project.
-
-Keep adding markdown here. See pages/home.md for hints.
-
-This is an example of a PubMed citation {% include citation.html search="wilson te michigan" %}.
-
-{% include figure.html  
-    image="assets/images/chemical-reaction-science-chemistry.jpg"
-    title="This is the 'title' provided to figure.html."
-    caption="This is the text in the 'caption' provided to figure.html."
-%}
+This project focuses on developing efficient and cost-effective deep learning models for biomaterial discovery like antibody design. A key aspect of the project is curating a diverse, high-quality datasets that reflect the complexity and heterogeneity of biomedical compounds such as antibodies.

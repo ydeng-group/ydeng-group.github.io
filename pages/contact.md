@@ -6,14 +6,7 @@ permalink: /contact/
 assistant_email: doe-asst@umich.edu
 ---
 
-### Administrative Assistant
+### Lab Director
 
-**Admin Asst Name**  
-<a href="mailto:{{ page.assistant_email }}">{{ page.assistant_email }}</a>
-
-### Principal Investigator
-
-**John Doe, Ph.D.**  
-etc.
-
-Pronouns: he/his/him
+**Yixiang Deng**  
+Email: yixiangd@udel.edu

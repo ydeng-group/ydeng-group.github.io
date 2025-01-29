@@ -24,4 +24,4 @@
   url: https://link.to.protocol/
   badges:
     - person=John_Doe
-    - project=project3
+    #- project=project3

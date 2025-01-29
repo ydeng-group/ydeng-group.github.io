@@ -98,6 +98,19 @@
   status: current
   badges: null
 
+- id: Daniel_Henley
+  name: Daniel Henley
+  role: Member 
+  program: null 
+  image: assets/images/vippng.com-face-silhouette-png-56170.png 
+  orcid: null
+  email: djhenley@udel.edu
+  github: null
+  twitter: null
+  description: First-year CS undergrad
+  status: current
+  badges: null
+
 #-------------------------------------------------------------------------------------
 # past group members
 #-------------------------------------------------------------------------------------

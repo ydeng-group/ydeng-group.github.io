@@ -5,13 +5,13 @@
 columns:
   - description:
     links:
-    - text: Department of XYZ
-      href: https://www.XYZ.med.umich.edu/
+    - text: Department of Computer and Information Sciences
+      href: https://www.cis.udel.edu/research/research-overview/
       new_window: false
     # add more departments as needed
 
   - description: > # e.g. funding acknowledgement. Can be Markdown
-      Short summary information about the Doe lab.
+      Computational Intelligence for Dynamical Systems Laboratory
     links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown

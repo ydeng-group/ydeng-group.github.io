@@ -5,6 +5,6 @@ description: Data-driven approaches for glucose prediction and control in diabet
 order: 2
 active: true
 card_image: null
-card_title: SciML for Glucose Management # used if card_image is null; defaults to title
+card_title: SciML for Health # used if card_image is null; defaults to title
 categories: null
 ---

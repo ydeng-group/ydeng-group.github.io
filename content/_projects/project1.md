@@ -5,7 +5,7 @@ description: This project focuses on developing efficient and cost-effective dee
 order: 1
 active: true
 card_image: null
-card_title: Deep Learning # used if card_image is null; defaults to title
+card_title: Deep Learning for Biology # used if card_image is null; defaults to title
 categories: null
 ---
 

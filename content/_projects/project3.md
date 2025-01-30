@@ -5,7 +5,7 @@ description: Physics-Informed Machine Learning enhances battery, plastics, and b
 order: 3
 active: true
 # card_image: "/assets/images/vintage-newspaper-print-downsize.jpg"
-card_title: PIML # used if card_image is null; defaults to title
+card_title: PIML in Engineering # used if card_image is null; defaults to title
 categories: null
 ---
 

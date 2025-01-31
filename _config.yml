@@ -5,7 +5,7 @@ version: 1 # increment version to force a site rebuild and update Recent News ev
 title: Computational Intelligence for Dynamical Systems Laboratory # in top navigation bar (navbar) and <head>
 description: Computational Intelligence for Dynamical Systems Laboratory, University of Delaware # description in <head>
 author: Yixiang Deng                    # for copyright statement in footer
-url: "https://jdoe-umich.github.io" # no slash at the end
+url: "https://yixiangd.github.io" # no slash at the end
 # baseurl: "/sitename"              # only required if your site is on a subdomain e.g. https://username.github.io/sitename
                                     # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
 #-------------------------------------------------------------------------------------

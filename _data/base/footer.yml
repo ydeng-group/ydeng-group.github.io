@@ -18,4 +18,4 @@ columns:
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
 license: >
   Content on this site is licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/).
-  \| Powered by [umich-labs](https://github.com/wilsonte-umich/umich-labs)
+  \| Powered by [umich-labs](https://github.com/wilsonte-umich/umich-labs) \| Edited by Winnie Li.

@@ -27,41 +27,20 @@
 #   badges:
 #     - TYPE=ID # e.g. person=John_Doe, project=project1 (no spaces)
       
-- id: bazzano_2021
-  date:  2021-09-21
-  pmid:  34263309
+- id: deng_2024
+  date:  2024-09-30
+  pmid:  39349500
   pmcid: null
   authors:  
-    - Bazzano D
-    - Lomonaco S
-    - Wilson TE
-  title:    Mapping yeast mitotic 5' resection at base resolution reveals the sequence and positional dependence of nucleases in vivo
-  journal:  Nucleic Acids Research
-  citation: 10.1093/nar/gkab597
-  year:     2021
+    - Agraz M
+    - Deng Y
+    - Karniadakis GE
+    - Mantzoros CS
+  title: Enhancing severe hypoglycemia prediction in type 2 diabetes mellitus through multi-view co-training machine learning model for imbalanced dataset
+  journal:  Scientific Reports
+  citation: 10.1038/s41598-024-69844-z
+  year:     2024
   url: null
-  abstract: adflkajd aflsdjf adslfkj asdlfkjas fdlkajsdf sdafjsldfkjas dlfkjasd flksdjf asdlfkjsad flkdjsa fsadklfjas adflkajd aflsdjf adslfkj asdlfkjas fdlkajsdf sdafjsldfkjas dlfkjasd flksdjf asdlfkjsad flkdjsa fsadklfjasadflkajd aflsdjf adslfkj asdlfkjas fdlkajsdf sdafjsldfkjas dlfkjasd flksdjf asdlfkjsad flkdjsa fsadklfjasadflkajd aflsdjf adslfkj asdlfkjas fdlkajsdf sdafjsldfkjas dlfkjasd flksdjf asdlfkjsad flkdjsa fsadklfjasadflkajd aflsdjf adslfkj asdlfkjas fdlkajsdf sdafjsldfkjas dlfkjasd flksdjf asdlfkjsad flkdjsa fsadklfjasadflkajd aflsdjf adslfkj asdlfkjas fdlkajsdf sdafjsldfkjas dlfkjasd flksdjf asdlfkjsad flkdjsa fsadklfjas  
+  abstract: Patients with type 2 diabetes mellitus (T2DM) who have severe hypoglycemia (SH) poses a considerable risk of long-term death, especially among the elderly, demanding urgent medical attention. Accurate prediction of SH remains challenging due to its multifaced nature, contributed from factors such as medications, lifestyle choices, and metabolic measurements. In this study, we propose a systematic approach to improve the robustness and accuracy of SH predictions using machine learning models, guided by clinical feature selection. Our focus is on developing long-term SH prediction models using both semi-supervised learning and supervised learning algorithms. Using the action to control cardiovascular risk in diabetes trial, which includes electronic health records for over 10,000 individuals, we focus on studying adults with T2DM. Our results indicate that the application of a multi-view co-training method, incorporating the random forest algorithm, improves the specificity of SH prediction, while the same setup with Naive Bayes replacing random forest demonstrates better sensitivity. Our framework also provides interpretability of machine learning models by identifying key predictors for hypoglycemia, including fasting plasma glucose, hemoglobin A1c, general diabetes education, and NPH or L insulins. The integration of data routinely available in electronic health records significantly enhances our model’s capability to predict SH events, showcasing its potential to transform clinical practice by facilitating early interventions and optimizing patient management. By enhancing prediction accuracy and identifying crucial predictive features, our study contributes to advancing the understanding and management of hypoglycemia in this population.
   badges:
-    - person=Dominic_Bazzano
-    - resource=cell_protocol
-
-- id: park_2020
-  date:  2020-07-15
-  pmid:  34181717
-  pmcid: PMC8287918
-  authors:  
-    - Park SH
-    - Bennett-Baker P
-    - Ahmed S
-    - Arlt MF
-    - Ljungman M
-    - Glover TW
-    - Wilson TE
-  title:    Locus-specific transcription silencing at the FHIT gene suppresses replication stress-induced copy number variant formation and associated replication delay
-  journal:  Nucleic Acids Research
-  citation: 49(13):7507-7524  
-  year:     2020
-  url: null 
-  badges: 
-    - funding=My_R01
-    #- project=project2
+    - person=Yixiang_Deng

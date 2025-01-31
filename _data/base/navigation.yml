@@ -10,6 +10,7 @@
 - text: People # simpler data set set in people.yml
   href: /people/ 
 
+
 - text: Publications # simpler data set set in publications.yml
   href: /publications/ 
 
@@ -19,10 +20,9 @@
 - text: More
   menu: # Dropdown menu (one level deep only) 
 
-""" Note - Uncomment to reveal Resource tab
-  - text: Resources # simpler data set set in funding.yml
-    href: /resources/  
-"""
+# Note - Uncomment below to reveal Resource tab
+#  - text: Resources # simpler data set set in funding.yml
+#    href: /resources/  
 
   - text: Funding # simpler data set set in funding.yml
     href: /funding/  

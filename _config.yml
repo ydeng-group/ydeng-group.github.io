@@ -46,12 +46,15 @@ collections:
     link: page_always
     output: true   
     hue: 225 # blue
-  resources: 
-    name: resources
-    item: resource
-    link: page_if_exists
-    output: true 
-    hue: 0 # red
+
+# Uncomment to reveal Resource tab
+  # resources: 
+  #   name: resources
+  #   item: resource
+  #   link: page_if_exists
+  #   output: true 
+  #   hue: 0 # red
+
   people: 
     name: people
     item: person
@@ -119,14 +122,17 @@ defaults:
     values:
       permalink: "/funding/:slug/"
       layout: "items/funding"
-  -
-    scope:
-      path: ""
-      type: "resources"
-    values:
-      permalink: "/resources/:slug/"
-      layout: "items/resource"
-  -
+
+# Note - Uncomment to reveal resource tab
+  # -
+  #   scope:
+  #     path: ""
+  #     type: "resources"
+  #   values:
+  #     permalink: "/resources/:slug/"
+  #     layout: "items/resource"
+
+   -
     scope:
       path: ""
       type: "newsfeed"

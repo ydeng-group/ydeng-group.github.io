@@ -6,15 +6,11 @@ subtitle: University of Delaware # smaller font size, shown below title+title2
 permalink: /
 ---
 
-Welcome to the web site of the Computational Intelligence for Dynamical Systems Laboratory.
-Here is some general information about our group
-and what we do.
+We look forward to working with **self-motivated** and **proactive** undergraduate and graduate students.
 
-### Section Title
+### Welcome to the Computational Intelligence for Dynamical Systems Laboratory
 
-Section text, add an image, whatever you'd like.
-See <https://www.markdownguide.org/basic-syntax/>
-for how to write page content in markdown (it's easy!).
+We are interested in scientific computing, machine learning, engineering, biology, and health!
 
 ![Glassware]({{ "assets/images/chemical-reaction-science-chemistry.jpg" | relative_url }})
 

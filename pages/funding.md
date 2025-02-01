@@ -11,5 +11,5 @@ support we have received to pursue our work!
 
 <div style="display: flex;">
   <img src="/assets/images/nsf.jpg" width="200" style="margin-right: 10px;" />
-  <img src="/assets/images/udrf_si.jpg" width="200" />
+  <img src="/assets/images/udrf_si.jpg" width="200" height="74" />
 </div>

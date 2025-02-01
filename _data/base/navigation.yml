@@ -10,21 +10,22 @@
 - text: People # simpler data set set in people.yml
   href: /people/ 
 
+
 - text: Publications # simpler data set set in publications.yml
   href: /publications/ 
 
 - text: News # extended event descriptions in _posts .md files
   href: /newsfeed/  
 
-- text: Funding # simpler data set set in funding.yml
-    href: /funding/  
-
-# - text: More
-#   menu: # Dropdown menu (one level deep only) 
+- text: More
+  menu: # Dropdown menu (one level deep only) 
 
 # Note - Uncomment below to reveal Resource tab
 #  - text: Resources # simpler data set set in funding.yml
 #    href: /resources/  
+
+  - text: Funding # simpler data set set in funding.yml
+    href: /funding/  
 
   # - text: Contact # simple page unto itself, no connections to other data types
   #   href: /contact/

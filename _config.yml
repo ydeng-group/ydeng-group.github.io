@@ -45,7 +45,7 @@ collections:
     item: project
     link: page_always
     output: true   
-    hue: 225 # blue
+    hue: 180 # cyan
   resources: 
     name: resources
     item: resource
@@ -75,7 +75,7 @@ collections:
     item: post
     link: never
     output: true
-    hue: 180 # cyan
+    hue: 225 # blue
 
 # eight equally spaced color hues: 
 # 0 red

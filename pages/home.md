@@ -12,5 +12,5 @@ We look forward to working with **self-motivated** and **proactive** undergradua
 
 We are interested in scientific computing, machine learning, engineering, biology, and health!
 
-![Glassware]({{ "assets/images/chemical-reaction-science-chemistry.jpg" | relative_url }})
+![Glassware]({{ "assets/images/home_page_image.png" | relative_url }})
 

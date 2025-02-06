@@ -12,5 +12,5 @@ permalink: /
 ### We are interested in *scientific computing*, *machine learning*, *engineering*, *biology*, and *health*
 
 We look forward to working with <span style="color: #00539F;">**self-motivated**</span> and <span style="color:#FFD200;">**proactive**</span> students!
-![Glassware]({{ "assets/images/home_page_image.png" | relative_url }})
+<img src="/assets/images/home_page_image.png" width="800" height=auto />
 

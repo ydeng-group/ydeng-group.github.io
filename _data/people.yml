@@ -118,8 +118,8 @@
   program: null # omit if not applicable
   image: assets/images/people/YiweiKong.jpg # can be external link
   orcid: null
-  email: null
-  github: null
+  email: ywkong@udel.edu
+  github: kdundun
   twitter: null
   description: First-year CS PhD student
   status: current

@@ -116,7 +116,7 @@
   name: Yiwei Kong # as display on the web page People item
   role: Member # will appear next to name
   program: null # omit if not applicable
-  image: assets/images/people/YiweiK.jpg # can be external link
+  image: null # can be external link
   orcid: null
   email: null
   github: null

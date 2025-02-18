@@ -46,19 +46,19 @@
 #-------------------------------------------------------------------------------------
 # current group members
 #-------------------------------------------------------------------------------------
-- id: Xinyang_Shen # used internally to identify this person, e.g., in a Newsfeed post "people" field
-  name: Xinyang Shen # as display on the web page People item
+- id: Yiwei_Kong # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Yiwei Kong # as display on the web page People item
   role: Member # will appear next to name
   program: null # omit if not applicable
-  image: assets/images/people/Xinyang.jpg # can be external link
+  image: assets/images/people/YiweiKong.jpg # can be external link
   orcid: null
-  email: xinyangs@udel.edu
-  github: xinyangs99
+  email: ywkong@udel.edu
+  github: kdundun
   twitter: null
   description: First-year CS PhD student
   status: current
   badges:
-    - project=project1
+    - project=project3
 
 - id: Winnie_Li 
   name: Winnie Li 
@@ -112,18 +112,6 @@
   status: current
   badges: null
 
-- id: Yiwei_Kong # used internally to identify this person, e.g., in a Newsfeed post "people" field
-  name: Yiwei Kong # as display on the web page People item
-  role: Member # will appear next to name
-  program: null # omit if not applicable
-  image: assets/images/people/YiweiKong.jpg # can be external link
-  orcid: null
-  email: ywkong@udel.edu
-  github: kdundun
-  twitter: null
-  description: First-year CS PhD student
-  status: current
-  badges: null
 
 #-------------------------------------------------------------------------------------
 # past group members

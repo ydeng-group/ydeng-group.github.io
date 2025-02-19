@@ -116,15 +116,14 @@
 #-------------------------------------------------------------------------------------
 # past group members
 #-------------------------------------------------------------------------------------
-- id: [place_holder] # used internally to identify this person, e.g., in a Newsfeed post "people" field
-  name: [place holder] # as display on the web page People item
-  role: [place holder] # will appear next to name
-  program: [place holder] # omit if not applicable
+- id: xinyang_shen # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Xinyang Shen # as display on the web page People item
+  role: Member # will appear next to name
+  program: null # omit if not applicable
   image: assets/images/vippng.com-face-silhouette-png-56170.png # can be external link
   orcid: null
-  email: [place holder]
+  email: null
   github: null
   twitter: null
-  description: [place holder]
-  status: past
-  current_position: [place holder] # optional, to indicate where people are now
+  description: First-year CS PhD student
+  current_position: CS PhD student # optional, to indicate where people are now

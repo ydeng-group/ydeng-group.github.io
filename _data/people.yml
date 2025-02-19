@@ -112,18 +112,18 @@
   status: current
   badges: null
 
-
 #-------------------------------------------------------------------------------------
 # past group members
 #-------------------------------------------------------------------------------------
-- id: xinyang_shen # used internally to identify this person, e.g., in a Newsfeed post "people" field
+- id: xys # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Xinyang Shen # as display on the web page People item
-  role: Member # will appear next to name
+  role: PhD student # will appear next to name
   program: null # omit if not applicable
   image: assets/images/vippng.com-face-silhouette-png-56170.png # can be external link
   orcid: null
-  email: null
+  email: xinyangs@udel.edu
   github: null
   twitter: null
-  description: First-year CS PhD student
-  current_position: CS PhD student # optional, to indicate where people are now
+  description: develop grants on project 1.
+  status: past
+  current_position: PhD student

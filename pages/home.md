@@ -9,10 +9,12 @@ permalink: /
 
 
 
-### We are interested in *scientific computing*, *machine learning*, *engineering*, *biology*, and *health*
+### We are interested in *scientific computing* and *machine learning* with applications to *engineering*, *biology*, and *health*
 
 We look forward to working with <span style="color: #00539F;">**self-motivated**</span> and <span style="color:#FFD200;">**proactive**</span> students!
 
-We have **3** PhD positions open in 2025 Fall. Please email Dr. Deng with your resume and transcripts if you are interested!
+We have <span style="color: #B53737;">**3**</span> PhD positions open in 2025 Fall. Students with a background in math, physics, and engineering are highly encouraged to apply for the PhD program in [UD CIS](https://www.cis.udel.edu/academics/graduate-programs/phd-in-computer-science/) (applications due on May 1st).
+
+Please email Dr. Deng with your resume and transcripts if you are interested!
 <img src="/assets/images/home_page_image.png" width="500" height=auto />
 

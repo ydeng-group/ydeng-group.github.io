@@ -1,14 +1,14 @@
 ---
-title: Efficient Deep Learning Models for Biomaterial Discovery
+title: Accelerating Biomaterial Discovery via Deep Learning and Multiscale Modeling
 subtitle: null
-description: This project focuses on developing efficient and cost-effective deep learning models for biomaterial discovery like antibody design. A key aspect of the project is curating a diverse, high-quality datasets that reflect the complexity and heterogeneity of biomedical compounds such as antibodies.
+description: This research theme integrates graph neural networks, large language models, diffusion models, and multiscale simulations—accelerated by parallel computing—to enable fast and intelligent design of novel materials with targeted properties.
 order: 1
 active: true
 card_image: "/assets/images/biomaterial.jpg"
-card_title: Deep Learning for Biology # used if card_image is null; defaults to title
+card_title: Accelerating Biomaterial Discovery # used if card_image is null; defaults to title
 categories: null
 ---
 
 <h4>Overview</h4>
 
-This project focuses on developing efficient and cost-effective deep learning models for biomaterial discovery like antibody design. A key aspect of the project is curating a diverse, high-quality datasets that reflect the complexity and heterogeneity of biomedical compounds such as antibodies.
+We are developing a unified framework to accelerate biomaterial discovery, particularly in protein design, by integrating deep learning with multiscale modeling. Graph neural networks (GNNs) are used to capture intricate spatial and relational features of material structures and molecular assemblies, while large language models (LLMs) trained on sequences provide contextual priors and generative capacity for novel designs. Diffusion models further enable the conditional and controllable generation of molecular details, aligning molecular configurations with desired properties. To ensure scalability and rapid design cycles, all components are optimized for high-performance and parallel computing environments, enabling fast exploration of material design spaces and integration with experimental feedback.

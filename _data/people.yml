@@ -1,5 +1,6 @@
+---
 #-------------------------------------------------------------------------------------
-# in addition to information enumerated here, a person may _optionally_ choose to 
+# in addition to information enumerated here, a person may _optionally_ choose to
 # create expanded information in _people/<id>.md
 #-------------------------------------------------------------------------------------
 # People are ordered on the People page as follows:
@@ -28,7 +29,6 @@
 #   badges:
 #     - TYPE=ID # e.g. person=John_Doe, project=project1 (no spaces)
 
-
 #-------------------------------------------------------------------------------------
 # Principal Investigator; many fields not relevant, they always apply to the PI for their own page
 #-------------------------------------------------------------------------------------
@@ -55,51 +55,62 @@
   email: ywkong@udel.edu
   github: kdundun
   twitter: null
-  description: First-year CIS PhD student
+  description: Second-year CIS PhD student
   status: current
   badges:
     - project=project3
 
-- id: Winnie_Li 
-  name: Winnie Li 
-  role: Member 
-  program: null 
+- id: Emily_Xuechun_Wang
+  name: Emily Xuechun Wang
+  role: Member
+  program: null
+  image: assets/images/people/EmilyW.png
+  orcid: null
+  email: null # Ask for emial
+  github: null # Ask for github
+  twitter: null
+  description: First-year CIS undergrad
+  status: current
+  badges: null
+
+- id: Winnie_Li
+  name: Winnie Li
+  role: Member
+  program: null
   image: assets/images/people/WinnieL.png
   orcid: null
   email: winnie@udel.edu
   github: Winnie-Udel
   twitter: null
-  description: Second-year CIS undergrad
+  description: Third-year CIS undergrad
   status: current
   badges: null
 
 - id: Ember_Kerstetter
-  name: Ember Kerstetter 
-  role: Member 
-  program: null 
+  name: Ember Kerstetter
+  role: Member
+  program: null
   image: assets/images/people/EmberK.jpg
   orcid: null
   email: emberk@udel.edu
   github: ember-k
   twitter: null
-  description: Second-year CIS undergrad
+  description: Third-year CIS undergrad
   status: current
   badges: null
 
 - id: Jacob_Wilber
   name: Jacob Wilber
-  role: Member 
-  program: null 
-  image: assets/images/vippng.com-face-silhouette-png-56170.png 
+  role: Member
+  program: null
+  image: assets/images/vippng.com-face-silhouette-png-56170.png
   orcid: null
   email: jwilber@udel.edu
   github: jacobwilbe
   twitter: null
-  description: Third-year CIS undergrad
+  description: Fourth-year CIS undergrad
   status: current
   badges: null
-
-
 
 #-------------------------------------------------------------------------------------
 # past group members
@@ -116,12 +127,12 @@
   description: developed grants on Project 1.
   status: past
   current_position: PhD student
-  
+
 - id: Daniel_Henley
   name: Daniel Henley
-  role: Undergrad 
-  program: null 
-  image: assets/images/vippng.com-face-silhouette-png-56170.png 
+  role: Undergrad
+  program: null
+  image: assets/images/vippng.com-face-silhouette-png-56170.png
   orcid: null
   email: djhenley@udel.edu
   github: null

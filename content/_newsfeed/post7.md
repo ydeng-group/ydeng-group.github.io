@@ -13,4 +13,4 @@ The episode featuring Dr. Deng's conversation with the producer of [IMSI](https:
 
 Check out the new episode, [Emerging Technologies Episode 2: Computation Medicine](https://www.imsi.institute/podcast/emerging-technologies-episode-2-computation-medicine/)!
 
-<iframe src="https://www.imsi.institute/podcast/emerging-technologies-episode-2-computation-medicine/" width="500" height="400" title="Emerging Technologies Episode 2: Computation Medicine"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/4Ei9oPdc9tHCZZRGOkg3Gj?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

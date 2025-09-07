@@ -73,6 +73,19 @@
   status: current
   badges: null
 
+- id: Sam_Zhang
+  name: Sam Zhang
+  role: Member
+  program: null
+  image: assets/images/people/SamZhang.png
+  orcid: null
+  email: samzheng@udel.edu
+  github: samzzheng
+  twitter: null
+  description: 27' DS MS Student
+  status: current
+  badges: null
+
 - id: Winnie_Li
   name: Winnie Li
   role: Member

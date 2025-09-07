@@ -77,7 +77,7 @@
   name: Sam Zhang
   role: Member
   program: null
-  image: assets/images/people/SamZhang.png
+  image: null #assets/images/people/SamZhang.png
   orcid: null
   email: samzheng@udel.edu
   github: samzzheng

@@ -34,13 +34,14 @@
 #-------------------------------------------------------------------------------------
 - id: Yixiang_Deng # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Yixiang Deng # as display on the web page People item
-  role: Assistant Professor # will appear next to name
+  role: Principal Investigator # will appear next to name
+  program: https://yixiangd.github.io/
   image: assets/images/people/YixiangDeng.jpg # can be external link
   orcid: null
   email: yixiangd@udel.edu
   github: yixiangD
   twitter: null
-  description: "Location: 18 Amstel Ave, Smith Hall, Room 436 \nOffice number: 302-831-0888"
+  description: "Location: 18 Amstel Ave, Room 436, Newark DE\nOffice number: 302-831-0888"
   status: current
 
 #-------------------------------------------------------------------------------------

@@ -35,7 +35,7 @@
 - id: Yixiang_Deng # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Yixiang Deng # as display on the web page People item
   role: Principal Investigator # will appear next to name
-  program: https://yixiangd.github.io/
+  program: assets/YixiangDeng_CV.pdf
   image: assets/images/people/YixiangDeng.jpg # can be external link
   orcid: null
   email: yixiangd@udel.edu

@@ -17,6 +17,6 @@ We have <span style="color: #B53737;">**2 PhD positions**</span> open in 2026 Fa
 
 **Prospective students**: 
 
-If you want to join us as a PhD student, please mention my name in your application. If you would like to join our group in any capacity, please fill out [<u>this form</u>](https://docs.google.com/forms/d/1Fl9yJ6ZAW2gkUNipegfoZ5y_XlvjqkZk-AM2V4wodsc) and then send me a short email note without any documents.
+If you would like to join our group in any capacity, please fill out [<u>this form</u>](https://docs.google.com/forms/d/1Fl9yJ6ZAW2gkUNipegfoZ5y_XlvjqkZk-AM2V4wodsc) and then send me a short email note without any documents. In addition, if you want to join us as a PhD student, please also mention my name in your application. 
 <img src="/assets/images/home_page_image.png" width="500" height=auto />
 

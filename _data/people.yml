@@ -154,3 +154,43 @@
   description: CIS undergrad
   status: past
   current_position: Undergrad student
+  
+- id: rchen
+  name: Raymond Chen
+  role: Highschool 25' summer intern
+  program: null
+  image: assets/images/vippng.com-face-silhouette-png-56170.png
+  orcid: null
+  email: null
+  github: null
+  twitter: null
+  description: Charter School of Wilmington, GAN & VAE for biomedical imaging.
+  status: past
+  current_position: Highschool student
+  
+- id: jchen
+  name: Jeffery Chen
+  role: Highschool 25' summer intern
+  program: null
+  image: assets/images/vippng.com-face-silhouette-png-56170.png
+  orcid: null
+  email: null
+  github: null
+  twitter: null
+  description: Appoquinimink High School, GAN & VAE for business transactions.
+  status: past
+  current_position: Highschool student
+
+- id: araman
+  name: Adarsh Ramamurthy
+  role: Highschool 25' summer intern
+  program: null
+  image: assets/images/vippng.com-face-silhouette-png-56170.png
+  orcid: null
+  email: null
+  github: null
+  twitter: null
+  description: Charter School of Wilmington, PINN for battery thermal harzard
+  status: past
+  current_position: Johns Hopkins University
+  

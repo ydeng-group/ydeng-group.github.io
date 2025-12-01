@@ -100,19 +100,6 @@
   status: current
   badges: null
 
-- id: Ember_Kerstetter
-  name: Ember Kerstetter
-  role: Member
-  program: null
-  image: assets/images/people/EmberK.jpg
-  orcid: null
-  email: emberk@udel.edu
-  github: ember-k
-  twitter: null
-  description: 27' CIS undergrad
-  status: current
-  badges: null
-
 - id: Jacob_Wilber
   name: Jacob Wilber
   role: Member
@@ -154,7 +141,20 @@
   description: CIS undergrad
   status: past
   current_position: Undergrad student
-  
+
+- id: Ember_Kerstetter
+  name: Ember Kerstetter
+  role: Member
+  program: null
+  image: assets/images/people/EmberK.jpg
+  orcid: null
+  email: emberk@udel.edu
+  github: ember-k
+  twitter: null
+  description: 27' CIS undergrad
+  status: current
+  badges: null
+
 - id: rchen
   name: Raymond Chen
   role: Highschool 25' summer intern
@@ -167,7 +167,7 @@
   description: Charter School of Wilmington, GAN & VAE for biomedical imaging.
   status: past
   current_position: Highschool student
-  
+
 - id: jchen
   name: Jeffery Chen
   role: Highschool 25' summer intern
@@ -193,4 +193,3 @@
   description: Charter School of Wilmington, PINN for battery thermal harzard
   status: past
   current_position: Johns Hopkins University
-  

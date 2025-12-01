@@ -144,7 +144,7 @@
 
 - id: Ember_Kerstetter
   name: Ember Kerstetter
-  role: Member
+  role: Undergrad
   program: null
   image: assets/images/people/EmberK.jpg
   orcid: null
@@ -152,8 +152,9 @@
   github: ember-k
   twitter: null
   description: 27' CIS undergrad
-  status: current
+  status: past
   badges: null
+  current_position: Undergrad student
 
 - id: rchen
   name: Raymond Chen

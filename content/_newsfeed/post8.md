@@ -11,23 +11,7 @@ badges: null # e.g. person=John_Doe, project=project1 (no spaces)
 
 Our team gathered in Philadelphia for a wonderful dinner to celebrate the end of the semester. It was a great opportunity to relax, connect, and reflect on our recent progress.
 
-<div id="philly-carousel" class="carousel slide" data-bs-ride="carousel" style="margin-top: 1rem;">
-  <div class="carousel-inner">
-
-    <div class="carousel-item active">
-      <img src="/assets/images/philly_dinner_1.jpg" class="d-block w-100" style="border-radius:12px;">
-    </div>
-
-    <div class="carousel-item">
-      <img src="/assets/images/philly_dinner_2.jpg" class="d-block w-100" style="border-radius:12px;">
-    </div>
-
-  </div>
-
-  <button class="carousel-control-prev" type="button" data-bs-target="#philly-carousel" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#philly-carousel" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-  </button>
+<div style="display: flex; gap: 1rem; justify-content: center; align-items: center; margin-top: 1rem;">
+  <img src="/assets/images/philly_dinner_1.jpg" style="height: 300px; object-fit: cover; border-radius: 12px;">
+  <img src="/assets/images/philly_dinner_2.jpg" style="height: 300px; object-fit: cover; border-radius: 12px;">
 </div>

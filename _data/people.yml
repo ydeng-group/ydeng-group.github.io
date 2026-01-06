@@ -100,19 +100,6 @@
   status: current
   badges: null
 
-- id: Jacob_Wilber
-  name: Jacob Wilber
-  role: Member
-  program: null
-  image: assets/images/vippng.com-face-silhouette-png-56170.png
-  orcid: null
-  email: jwilber@udel.edu
-  github: jacobwilbe
-  twitter: null
-  description: 26' CIS undergrad
-  status: current
-  badges: null
-
 #-------------------------------------------------------------------------------------
 # past group members
 #-------------------------------------------------------------------------------------
@@ -155,6 +142,19 @@
   status: past
   badges: null
   current_position: Undergrad student
+
+- id: Jacob_Wilber
+  name: Jacob Wilber
+  role: Member
+  program: null
+  image: assets/images/vippng.com-face-silhouette-png-56170.png
+  orcid: null
+  email: jwilber@udel.edu
+  github: jacobwilbe
+  twitter: null
+  description: 26' CIS undergrad
+  status: past
+  badges: null
 
 - id: rchen
   name: Raymond Chen

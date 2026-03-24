@@ -74,6 +74,20 @@
   status: current
   badges: null
 
+- id: Mathias_Heider
+  name: Mathias Heider
+  role: Member
+  program: null
+  image: assets/images/people/mathias.jpg
+  orcid: null
+  email: mheider@udel.edu
+  github: null
+  twitter: null
+  description: 29' CIS PhD Student
+  status: current
+  badges:
+    - project=project3
+
 - id: Sam_Zheng
   name: Sam Zheng
   role: Member

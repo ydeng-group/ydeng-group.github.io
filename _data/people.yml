@@ -59,20 +59,7 @@
   description: 30' CIS PhD Student
   status: current
   badges:
-    - project=project3
-
-- id: Emily_Xuechun_Wang
-  name: Emily Xuechun Wang
-  role: Member
-  program: null
-  image: assets/images/people/EmilyW.JPG
-  orcid: null
-  email: Excwr@udel.edu
-  github: excwr0123
-  twitter: null
-  description: 30' CIS PhD Student
-  status: current
-  badges: null
+    - project=project2
 
 - id: Mathias_Heider
   name: Mathias Heider
@@ -129,6 +116,19 @@
   description: developed grants on Project 1.
   status: past
   current_position: PhD student
+
+- id: Emily_Xuechun_Wang
+  name: Emily Xuechun Wang
+  role: Member
+  program: null
+  image: assets/images/people/EmilyW.JPG
+  orcid: null
+  email: Excwr@udel.edu
+  github: excwr0123
+  twitter: null
+  description: PhD Student
+  status: past
+  badges: null
 
 - id: Daniel_Henley
   name: Daniel Henley

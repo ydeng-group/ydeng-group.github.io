@@ -65,3 +65,21 @@
   abstract: Accurately predicting the knee point cycle number, marking the onset of accelerated capacity degradation, is the first critical signal for managing lithium-ion battery life cycles in electric vehicles and stationary energy storage systems. However, the inherent electrochemo-mechanical-thermal complexities of battery aging present significant challenges for physics-based models and machine-learning models, often leading to reduced predictive accuracy. Our study developed a comprehensive dataset comprising 20 lithium nickel manganese cobalt oxide (NCM)/graphite cells (0.5–1 C) from our lab and 162 commercial lithium iron phosphate (LFP)/graphite cells (3–6 C) from the public database, with knee point observed between 100 and 1000 cycles. We proposed a new strategy to extract novel features with strong physical context from early-cycle voltage curves, enabling precise knee point predictions across the chemistries without the need for extensive cycling histories. Our model achieved a mean absolute percentage error (MAPE) of 7% for knee point prediction using five selected features. Remarkably, the model yielded 8% MAPE with only one single feature across the initial 200 cycles, and 10% MAPE when applying five features across the initial 50 cycles, spanning different battery chemistries. This work highlights the potential of integrating multi-chemistry datasets with data-driven modeling to forecast aging patterns across diverse battery chemistries, advancing battery longevity and reliability.
   badges:
     - person=Yixiang_Deng
+
+- id: deng_2026
+  date: 2026-03-16
+  pmid: null
+  pmcid: null
+  authors:
+    - Deng Y
+    - Kong Y
+    - Wang X
+    - Li H
+  title: Recent Advances in Modeling and Prediction of Blood Glucose in Type 1 Diabetes
+  journal: Delaware Journal of Public Health
+  citation: 10.32481/djph.2026.03.09.
+  year: 2026
+  url: null
+  abstract: Accurate prediction and control of blood glucose levels are essential for the management of type 1 diabetes, where patients rely on exogenous insulin and are vulnerable to both hypoglycemia and hyperglycemia. The widespread adoption of continuous glucose monitoring systems, insulin pumps, and wearable devices has generated large volumes of physiological and behavioral data, creating new opportunities for computational modeling and intelligent decision support. This review surveys recent advances in glucose prediction and control models, with a primary focus on type 1 diabetes. We examine three major classes of approaches: mechanistic models based on physiological principles, data-driven machine learning methods, and hybrid or biology-informed frameworks that integrate mechanistic knowledge with learning-based techniques. We also discuss the growing role of multimodal data, deep learning architectures, and reinforcement learning for automated insulin dosing and adaptive control in artificial pancreas systems. Despite significant progress, important challenges remain, including handling noisy and heterogeneous data, improving predictive reliability and uncertainty quantification, and enabling real-time deployment on resource-constrained medical devices. Emerging strategies such as edge computing, efficient model design, and hardware–algorithm co-optimization may help bridge this gap. Continued progress will require interdisciplinary collaboration, standardized evaluation on public datasets, and rigorous clinical validation to translate emerging modeling approaches into practical tools that improve patient outcomes.
+    - person=Yixiang_Deng
+    - person=Yiwei_Kong

@@ -68,7 +68,7 @@
 
 - id: deng_2026
   date: 2026-03-16
-  pmid: null
+  pmid: 41943733
   pmcid: null
   authors:
     - Deng Y
@@ -80,7 +80,7 @@
   citation: 10.32481/djph.2026.03.09
   year: 2026
   url: null
-  abstract: null
+  abstract: Accurate prediction and control of blood glucose levels are essential for the management of type 1 diabetes, where patients rely on exogenous insulin and are vulnerable to both hypoglycemia and hyperglycemia. The widespread adoption of continuous glucose monitoring systems, insulin pumps, and wearable devices has generated large volumes of physiological and behavioral data, creating new opportunities for computational modeling and intelligent decision support. This review surveys recent advances in glucose prediction and control models, with a primary focus on type 1 diabetes. We examine three major classes of approaches -- mechanistic models based on physiological principles, data-driven machine learning methods, and hybrid or biology-informed frameworks that integrate mechanistic knowledge with learning-based techniques.
   badges:
     - person=Yixiang_Deng
     - person=Yiwei_Kong

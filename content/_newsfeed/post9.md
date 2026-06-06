@@ -12,5 +12,5 @@ badges: null # e.g. person=John_Doe, project=project1 (no spaces)
 Our team gathered at Friendship BBQ for a wonderful lunch to celebrate the end of the school year. It was a great opportunity to relax, connect with one another, and reflect on the many accomplishments and memories from the year.
 
 <div style="text-align: center;">
-  <img src="/assets/images/friendship_bbq.png" style="height: 150px; object-fit: cover; border-radius: 12px;">
+  <img src="/assets/images/friendship_bbq.png" style="height: 300px; object-fit: cover; border-radius: 12px;">
 </div>

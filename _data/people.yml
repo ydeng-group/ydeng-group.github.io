@@ -101,6 +101,18 @@
   status: current
   badges: null
 
+- id: Jarry Mbachick
+  name: Jarry Mbachick
+  role: Member
+  program: null
+  image: assets/images/vippng.com-face-silhouette-png-56170.png # can be external link
+  orcid: null
+  email: mbachick@udel.edu
+  github: null
+  twitter: null
+  description: 29' Medical Diagnostic undergard
+  status: current
+  badges: null
 #-------------------------------------------------------------------------------------
 # past group members
 #-------------------------------------------------------------------------------------
@@ -119,8 +131,8 @@
 
 - id: Emily_Xuechun_Wang
   name: Emily Xuechun Wang
-  role: Member
-  program: null
+  role: PhD student # will appear next to name
+  program: null # omit if not applicable
   image: assets/images/people/EmilyW.JPG
   orcid: null
   email: Excwr@udel.edu

@@ -125,7 +125,7 @@
   email: xinyangs@udel.edu
   github: null
   twitter: null
-  description: developed grants on Project 1.
+  description: developed grants on antibody structure prediction
   status: past
   current_position: PhD student
 
@@ -138,9 +138,9 @@
   email: Excwr@udel.edu
   github: excwr0123
   twitter: null
-  description: PhD Student
+  description: explore data-driven glucose prediction
   status: past
-  badges: null
+  current_position: PhD student
 
 - id: Daniel_Henley
   name: Daniel Henley
@@ -151,7 +151,7 @@
   email: djhenley@udel.edu
   github: null
   twitter: null
-  description: CIS undergrad
+  description: undergrad intern
   status: past
   current_position: Undergrad student
 
@@ -164,7 +164,7 @@
   email: emberk@udel.edu
   github: ember-k
   twitter: null
-  description: 27' CIS undergrad
+  description: undergrad intern
   status: past
   badges: null
   current_position: Undergrad student
@@ -178,7 +178,7 @@
   email: jwilber@udel.edu
   github: jacobwilbe
   twitter: null
-  description: 26' CIS undergrad
+  description: undergrad intern
   status: past
   badges: null
 
@@ -219,4 +219,4 @@
   twitter: null
   description: Charter School of Wilmington, PINN for battery thermal harzard
   status: past
-  current_position: Johns Hopkins University
+  current_position: UPenn undergrad

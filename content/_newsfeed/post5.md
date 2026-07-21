@@ -8,4 +8,4 @@ banner_image_source: null
 badges: null # e.g. person=John_Doe, project=project1 (no spaces)
 ---
 
-Dr. Deng has received DE-INBRE to support our research on Scientific Machine Learning for Glucose Prediction in Diabetes!
+Dr. Deng has received an DE-INBRE award to support our research on Scientific Machine Learning for Glucose Prediction in Diabetes!

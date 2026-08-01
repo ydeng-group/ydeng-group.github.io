@@ -129,7 +129,7 @@
   github: null
   twitter: null
   description: null
-  status: null
+  status: past
   current_position: null
 
 - id: Emily_Xuechun_Wang
@@ -142,7 +142,7 @@
   github: null
   twitter: null
   description: null
-  status: null
+  status: past
   current_position: null
 
 - id: Daniel_Henley
@@ -155,7 +155,7 @@
   github: null
   twitter: null
   description: null
-  status: null
+  status: past
   current_position: null
 
 - id: Ember_Kerstetter
@@ -168,7 +168,7 @@
   github: null
   twitter: null
   description: null
-  status: null
+  status: past
   current_position: null
 
 - id: Jacob_Wilber
@@ -181,7 +181,7 @@
   github: null
   twitter: null
   description: null
-  status: null
+  status: past
   current_position: null
 
 - id: rchen
@@ -194,7 +194,7 @@
   github: null
   twitter: null
   description: null
-  status: null
+  status: past
   current_position: null
 
 - id: jchen
@@ -207,7 +207,7 @@
   github: null
   twitter: null
   description: null
-  status: null
+  status: past
   current_position: null
 
 - id: araman
@@ -220,5 +220,5 @@
   github: null
   twitter: null
   description: null
-  status: null
+  status: past
   current_position: null

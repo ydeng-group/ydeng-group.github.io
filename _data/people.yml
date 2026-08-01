@@ -118,105 +118,104 @@
 #-------------------------------------------------------------------------------------
 - id: xys # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Xinyang Shen # as display on the web page People item
-  role: PhD student # will appear next to name
+  role: PhD student (2024 Fall) # will appear next to name
   program: null # omit if not applicable
-  image: assets/images/vippng.com-face-silhouette-png-56170.png # can be external link
+  image: null
   orcid: null
-  email: xinyangs@udel.edu
+  email: null
   github: null
   twitter: null
-  description: developed grants on antibody structure prediction
-  status: past
-  current_position: PhD student
+  description: null
+  status: null
+  current_position: null
 
 - id: Emily_Xuechun_Wang
   name: Emily Xuechun Wang
-  role: PhD student # will appear next to name
+  role: PhD student (2025 Fall) # will appear next to name
   program: null # omit if not applicable
-  image: assets/images/people/EmilyW.JPG
+  image: null
   orcid: null
-  email: Excwr@udel.edu
-  github: excwr0123
+  email: null
+  github: null
   twitter: null
-  description: explore data-driven glucose prediction
-  status: past
-  current_position: PhD student
+  description: null
+  status: null
+  current_position: null
 
 - id: Daniel_Henley
   name: Daniel Henley
-  role: Undergrad
-  program: null
-  image: assets/images/vippng.com-face-silhouette-png-56170.png
+  role: Undergrad (2024 Fall)
+  program: null # omit if not applicable
+  image: null
   orcid: null
-  email: djhenley@udel.edu
+  email: null
   github: null
   twitter: null
-  description: undergrad intern
-  status: past
-  current_position: Undergrad student
+  description: null
+  status: null
+  current_position: null
 
 - id: Ember_Kerstetter
   name: Ember Kerstetter
-  role: Undergrad
-  program: null
-  image: assets/images/people/EmberK.jpg
+  role: Undergrad (2024 Fall)
+  program: null # omit if not applicable
+  image: null
   orcid: null
-  email: emberk@udel.edu
-  github: ember-k
+  email: null
+  github: null
   twitter: null
-  description: undergrad intern
-  status: past
-  badges: null
-  current_position: Undergrad student
+  description: null
+  status: null
+  current_position: null
 
 - id: Jacob_Wilber
   name: Jacob Wilber
-  role: Member
-  program: null
-  image: assets/images/vippng.com-face-silhouette-png-56170.png
+  role: Undergrad (2024 Fall)
+  program: null # omit if not applicable
+  image: null
   orcid: null
-  email: jwilber@udel.edu
-  github: jacobwilbe
+  email: null
+  github: null
   twitter: null
-  description: undergrad intern
-  status: past
-  badges: null
+  description: null
+  status: null
+  current_position: null
 
 - id: rchen
   name: Raymond Chen
-  role: Highschool 25' summer intern
-  program: null
-  image: assets/images/vippng.com-face-silhouette-png-56170.png
+  role: Highschooler at Charter School of Wilmington (2025 summer)
+  program: null # omit if not applicable
+  image: null
   orcid: null
   email: null
   github: null
   twitter: null
-  description: Charter School of Wilmington, GAN & VAE for biomedical imaging.
-  status: past
-  current_position: Highschool student
+  description: null
+  status: null
+  current_position: null
 
 - id: jchen
   name: Jeffery Chen
-  role: Highschool 25' summer intern
-  program: null
-  image: assets/images/vippng.com-face-silhouette-png-56170.png
+  role: Highschooler at Appoquinimink High School (2025 summer)
+  program: null # omit if not applicable
+  image: null
   orcid: null
   email: null
   github: null
   twitter: null
-  description: Appoquinimink High School, GAN & VAE for business transactions.
-  status: past
-  current_position: Highschool student
+  description: null
+  status: null
+  current_position: null
 
 - id: araman
   name: Adarsh Ramamurthy
-  role: Highschool 25' summer intern
-  program: null
-  image: assets/images/vippng.com-face-silhouette-png-56170.png
+  role: Highschooler at Charter School of Wilmington (2025 summer)
+  program: null # omit if not applicable
+  image: null
   orcid: null
   email: null
   github: null
   twitter: null
-  description: Charter School of Wilmington, PINN for battery thermal harzard
-  status: past
-  current_position: UPenn undergrad
+  description: null
+  status: null
+  current_position: null

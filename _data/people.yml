@@ -113,9 +113,12 @@
   description: 29' Medical Diagnostic undergard
   status: current
   badges: null
+
+  
 #-------------------------------------------------------------------------------------
 # past group members
 #-------------------------------------------------------------------------------------
+
 - id: xys # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Xinyang Shen # as display on the web page People item
   role: PhD student (2024 Fall) # will appear next to name

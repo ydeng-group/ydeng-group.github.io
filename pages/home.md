@@ -13,7 +13,7 @@ permalink: /
 
 We look forward to working with <span style="color: #00539F;">**self-motivated**</span> and <span style="color:#FFD200;">**proactive**</span> students!
 
-We have <span style="color: #B53737;">**1 fully funded PhD position**</span> open in 2027 Fall with a focus on *Physical AI*. Students with a background in math, physics, and engineering are highly encouraged to apply for the PhD program in [<u>UD CIS</u>](https://www.cis.udel.edu/academics/graduate-programs/phd-in-computer-science/). A background with numerical solution and analysis for ordinary differential equations is preferred.
+We have <span style="color: #B53737;">**1 fully funded PhD position**</span> open in 2027 Fall with a focus on *Physical AI*. Students with a background in math, physics, and engineering are highly encouraged to apply for the PhD program in [<u>UD CIS</u>](https://www.cis.udel.edu/academics/graduate-programs/phd-in-computer-science/). A background with numerical solution and analysis for differential equations is preferred.
 
 **Prospective students**: 
 

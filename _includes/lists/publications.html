@@ -1,0 +1,80 @@
+{% assign collection = site.data.publications %}
+{% include lists/filtered-list.html %}
+
+{% if filtered.size > 0 %}
+<div class="publication-gallery row">
+  {% assign group_by_year = filtered | group_by: "year" %}
+  {% assign by_year_desc = group_by_year | sort: "name" | reverse %}
+
+  {% for year_group in by_year_desc %}
+    {% for publication in year_group.items | sort: "pmid" | reverse %}
+      {% assign gallery_image = "assets/images/research/2025INBRE-Winnie.jpeg" %}
+      {% if publication.id == "deng_2025" %}
+        {% assign gallery_image = "assets/images/research/2026INBRE-Jarry.jpeg" %}
+      {% elsif publication.id == "deng_2026" %}
+        {% assign gallery_image = "assets/images/research/2026NISBRE-Deng.jpeg" %}
+      {% endif %}
+
+      {% if publication.pmid %}
+        {% assign publication_link = "https://pubmed.ncbi.nlm.nih.gov/" | append: publication.pmid | append: "/" %}
+      {% elsif publication.url %}
+        {% assign publication_link = publication.url %}
+      {% else %}
+        {% assign publication_link = "https://doi.org/" | append: publication.citation %}
+      {% endif %}
+
+      <div class="col-12 col-md-6 col-xl-4 mb-4">
+        <a class="publication-gallery-item d-block h-100" href="{{ publication_link }}" target="_blank" rel="noopener">
+          <img src="{{ gallery_image | relative_url }}" alt="" class="publication-gallery-image">
+          <div class="publication-gallery-caption">
+            <small>{{ publication.year }} · {{ publication.journal }}</small>
+            <strong>{{ publication.title }}</strong>
+            <span>{{ publication.authors | join: ", " }}</span>
+          </div>
+        </a>
+      </div>
+    {% endfor %}
+  {% endfor %}
+</div>
+
+<style>
+  .publication-gallery-item {
+    overflow: hidden;
+    color: inherit;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    transition: box-shadow 160ms ease, transform 160ms ease;
+  }
+
+  .publication-gallery-item:hover,
+  .publication-gallery-item:focus {
+    color: inherit;
+    text-decoration: none;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.12);
+    transform: translateY(-2px);
+  }
+
+  .publication-gallery-image {
+    display: block;
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+  }
+
+  .publication-gallery-caption {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+    padding: 1rem;
+  }
+
+  .publication-gallery-caption small {
+    color: #6c757d;
+  }
+
+  .publication-gallery-caption span {
+    font-size: 0.9rem;
+    color: #495057;
+  }
+</style>
+{% endif %}

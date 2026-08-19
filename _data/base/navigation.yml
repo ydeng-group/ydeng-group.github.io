@@ -11,7 +11,7 @@
   href: /people/ 
 
 
-- text: Presentation Gallery # presentation gallery at /publications/
+- text: Gallery # presentation gallery at /publications/
   href: /publications/ 
 
 - text: News # extended event descriptions in _posts .md files

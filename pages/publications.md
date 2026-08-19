@@ -1,7 +1,7 @@
 ---
 layout: publications
-title: Publications
-subtitle: Research articles and scholarly works
+title: Presentation Gallery
+subtitle: Research presentations and summer scholars
 banner_image: /assets/images/pexels-stanislav-kondratiev-2908984-downsize.jpg
 permalink: /publications/
 ---

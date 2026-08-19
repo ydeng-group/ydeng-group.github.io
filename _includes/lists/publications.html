@@ -9,29 +9,30 @@
   {% for year_group in by_year_desc %}
     {% for publication in year_group.items | sort: "pmid" | reverse %}
       {% assign gallery_image = "assets/images/research/2025INBRE-Winnie.jpeg" %}
-      {% if publication.id == "deng_2025" %}
+      {% assign gallery_event = "2025 DE-INBRE summer scholar" %}
+      {% assign gallery_author = "Winnie Li" %}
+      {% if publication.id == "deng_2024" %}
+        {% assign gallery_image = "assets/images/research/2025INBRE-Winnie.jpeg" %}
+        {% assign gallery_event = "2025 DE-INBRE summer scholar" %}
+        {% assign gallery_author = "Winnie Li" %}
+      {% elsif publication.id == "deng_2025" %}
         {% assign gallery_image = "assets/images/research/2026INBRE-Jarry.jpeg" %}
+        {% assign gallery_event = "2026 DE-INBRE summer scholar" %}
+        {% assign gallery_author = "Jarry Mbachick" %}
       {% elsif publication.id == "deng_2026" %}
         {% assign gallery_image = "assets/images/research/2026NISBRE-Deng.jpeg" %}
-      {% endif %}
-
-      {% if publication.pmid %}
-        {% assign publication_link = "https://pubmed.ncbi.nlm.nih.gov/" | append: publication.pmid | append: "/" %}
-      {% elsif publication.url %}
-        {% assign publication_link = publication.url %}
-      {% else %}
-        {% assign publication_link = "https://doi.org/" | append: publication.citation %}
+        {% assign gallery_event = "2026 NISBRE conference" %}
+        {% assign gallery_author = "Yixiang Deng" %}
       {% endif %}
 
       <div class="col-12 col-md-6 col-xl-4 mb-4">
-        <a class="publication-gallery-item d-block h-100" href="{{ publication_link }}" target="_blank" rel="noopener">
+        <div class="publication-gallery-item d-block h-100">
           <img src="{{ gallery_image | relative_url }}" alt="" class="publication-gallery-image">
           <div class="publication-gallery-caption">
-            <small>{{ publication.year }} · {{ publication.journal }}</small>
-            <strong>{{ publication.title }}</strong>
-            <span>{{ publication.authors | join: ", " }}</span>
+            <small>{{ gallery_event }}</small>
+            <strong>{{ gallery_author }}</strong>
           </div>
-        </a>
+        </div>
       </div>
     {% endfor %}
   {% endfor %}

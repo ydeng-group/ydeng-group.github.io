@@ -19,8 +19,6 @@ We have <span style="color: #B53737;">**1 fully funded PhD position**</span> ope
 
 If you would like to join our group in any capacity, please fill out [<u>this form</u>](https://docs.google.com/forms/d/1Fl9yJ6ZAW2gkUNipegfoZ5y_XlvjqkZk-AM2V4wodsc) and then send me a short email note without any documents. In addition, if you want to join us as a PhD student, please also mention my name in your application (statement of purpose, personal statement). 
 
-<img src="/assets/images/home_page_image.png" width="100" height=auto />
-
 **My expectations for PhD students**: 
 
 - *Drive the research forward.* Rather than waiting for weekly meetings to receive tasks, identify problems, propose ideas, and suggest next steps.
@@ -30,3 +28,5 @@ If you would like to join our group in any capacity, please fill out [<u>this fo
 - *Manage time effectively.* Set short-term goals, track your progress, and work consistently without requiring repetitive supervision.
 
 - *Be intellectually curious.* Read beyond the assigned papers, explore related methods, and think critically about improving existing work.
+
+<img src="/assets/images/home_page_image.png" width="300" height=auto />

@@ -47,20 +47,6 @@
 #-------------------------------------------------------------------------------------
 # current group members
 #-------------------------------------------------------------------------------------
-- id: Yiwei_Kong # used internally to identify this person, e.g., in a Newsfeed post "people" field
-  name: Yiwei Kong # as display on the web page People item
-  role: Member # will appear next to name
-  program: null # omit if not applicable
-  image: assets/images/people/YiweiKong.jpg # can be external link
-  orcid: null
-  email: ywkong@udel.edu
-  github: kdundun
-  twitter: null
-  description: 30' CIS PhD Student
-  status: current
-  badges:
-    - project=project2
-
 - id: Mathias_Heider
   name: Mathias Heider
   role: Member
@@ -75,19 +61,6 @@
   badges:
     - project=project3
 
-- id: Sam_Zheng
-  name: Sam Zheng
-  role: Member
-  program: null
-  image: assets/images/people/SamZ.png
-  orcid: null
-  email: samzheng@udel.edu
-  github: samzzheng
-  twitter: null
-  description: 27' DS MS Student
-  status: current
-  badges: null
-
 - id: Winnie_Li
   name: Winnie Li
   role: Member
@@ -97,27 +70,92 @@
   email: winnie@udel.edu
   github: Winnie-Udel
   twitter: null
-  description: 27' CIS undergrad
+  description: 27' CIS Undergrad
   status: current
+  badges: null
+
+- id: Tarun_Ravichandar
+  name: Tarun Ravichandar
+  role: Member
+  program: null
+  image: null
+  orcid: null
+  email: null
+  github: null
+  twitter: null
+  description: 29' BME Undergrad
+  status: current
+  badges: null
+
+- id: Kamal_Mandava
+  name: Kamal Mandava
+  role: Member
+  program: null
+  image: null
+  orcid: null
+  email: null
+  github: null
+  twitter: null
+  description: 31' CIS PhD Student
+  status: current
+  badges: null
+
+- id: Petter_Chen
+  name: Peter Chen
+  role: Member
+  program: null
+  image: null
+  orcid: null
+  email: null
+  github: null
+  twitter: null
+  description: 31' T32 Bioinformatics PhD Student
+  status: current
+  badges: null
+
+#-------------------------------------------------------------------------------------
+# past group members
+#-------------------------------------------------------------------------------------
+
+- id: Sam_Zheng
+  name: Sam Zheng
+  role: Undergrad (2025 Fall- 2026 Spring)
+  program: null
+  image: null
+  orcid: null
+  email: samzheng@udel.edu
+  github: samzzheng
+  twitter: null
+  description: 27' DS MS Student
+  status: past
   badges: null
 
 - id: Jarry Mbachick
   name: Jarry Mbachick
-  role: Member
+  role: DE-INBRE Summer scholar (2026 Summer)
   program: null
-  image: assets/images/people/Jarry.jpg
+  image: null
   orcid: null
   email: mbachick@udel.edu
   github: null
   twitter: null
   description: 29' Medical Diagnostic undergard
-  status: current
+  status: past
   badges: null
 
-  
-#-------------------------------------------------------------------------------------
-# past group members
-#-------------------------------------------------------------------------------------
+- id: Yiwei_Kong # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Yiwei Kong # as display on the web page People item
+  role: PhD student (2025 Fall-2026 Summer) # will appear next to name
+  program: null # omit if not applicable
+  image: null
+  orcid: null
+  email: ywkong@udel.edu
+  github: kdundun
+  twitter: null
+  description: 30' CIS PhD Student
+  status: past
+  badges:
+    - project=project2
 
 - id: xys # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Xinyang Shen # as display on the web page People item
@@ -186,7 +224,7 @@
 
 - id: rchen
   name: Raymond Chen
-  role: Highschooler at Charter School of Wilmington (2025 summer)
+  role: Highschooler at Charter School of Wilmington (2025 Summer)
   program: null # omit if not applicable
   image: null
   orcid: null
@@ -199,7 +237,7 @@
 
 - id: jchen
   name: Jeffery Chen
-  role: Highschooler at Appoquinimink High School (2025 summer)
+  role: Highschooler at Appoquinimink High School (2025 Summer)
   program: null # omit if not applicable
   image: null
   orcid: null
@@ -212,7 +250,7 @@
 
 - id: araman
   name: Adarsh Ramamurthy
-  role: Highschooler at Charter School of Wilmington (2025 summer)
+  role: Highschooler at Charter School of Wilmington (2025 Summer)
   program: null # omit if not applicable
   image: null
   orcid: null

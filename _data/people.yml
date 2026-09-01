@@ -56,7 +56,7 @@
   email: mheider@udel.edu
   github: null
   twitter: null
-  description: 29' CIS PhD Student
+  description: 29' CIS PhD Student (Co-advised with Srikanth Pilla)
   status: current
   badges:
     - project=project3
@@ -109,7 +109,7 @@
   email: null
   github: null
   twitter: null
-  description: 31' T32 Bioinformatics PhD Student
+  description: 31' T32 Bioinformatics PhD Student (Co-advised with Austin Brockmeier)
   status: current
   badges: null
 
@@ -132,7 +132,7 @@
 
 - id: Jarry Mbachick
   name: Jarry Mbachick
-  role: DE-INBRE Summer scholar (2026 Summer)
+  role: DE-INBRE Summer Scholar (2026 Summer)
   program: null
   image: null
   orcid: null

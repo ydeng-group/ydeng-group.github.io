@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------------------
 # site settings
 #-------------------------------------------------------------------------------------
-version: 1 # increment version to force a site rebuild and update Recent News even if content is unchanged
+version: 2 # increment version to force a site rebuild and update Recent News even if content is unchanged
 title: Computational Intelligence for Dynamical Systems Laboratory # in top navigation bar (navbar) and <head>
 description: Computational Intelligence for Dynamical Systems Laboratory, University of Delaware # description in <head>
 author: Yixiang Deng                    # for copyright statement in footer

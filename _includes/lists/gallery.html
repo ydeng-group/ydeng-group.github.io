@@ -1,0 +1,100 @@
+{% assign collection = site.data.publications %}
+{% include lists/filtered-list.html %}
+
+{% if filtered.size > 0 %}
+<div class="publication-gallery row">
+  <div class="col-12 col-md-6 col-xl-4 mb-4">
+    <div class="publication-gallery-item d-block h-100">
+      <img src="{{ 'assets/images/research/2026-Bertino-UD.jpeg' | relative_url }}" alt="Yixiang Deng with Dr. Elisa Bertino during her visit to the University of Delaware" class="publication-gallery-image">
+      <div class="publication-gallery-caption">
+        <small>September 17, 2026 · University of Delaware</small>
+        <strong>With Dr. Elisa Bertino—ACM President and Purdue’s Samuel D. Conte Distinguished Professor of Computer Science.</strong>
+      </div>
+    </div>
+  </div>
+
+  {% assign group_by_year = filtered | group_by: "year" %}
+  {% assign by_year_desc = group_by_year | sort: "name" | reverse %}
+
+  {% for year_group in by_year_desc %}
+    {% for publication in year_group.items | sort: "pmid" | reverse %}
+      {% assign gallery_image = "assets/images/research/2025INBRE-Winnie.jpeg" %}
+      {% assign gallery_event = "2025 DE-INBRE Summer Scholar" %}
+      {% assign gallery_author = "Winnie Li, a CIS major, explored using the Helmholtz equation and neural networks to infer tissue stiffness in Alzheimer’s disease." %}
+      {% if publication.id == "deng_2024" %}
+        {% assign gallery_image = "assets/images/research/2025INBRE-Winnie.jpeg" %}
+        {% assign gallery_event = "2025 DE-INBRE Summer Scholar" %}
+        {% assign gallery_author = "Winnie Li, a CIS major, explored using the Helmholtz equation and neural networks to infer tissue stiffness in Alzheimer’s disease." %}
+      {% elsif publication.id == "deng_2025" %}
+        {% assign gallery_image = "assets/images/research/2026INBRE-Jarry.jpeg" %}
+        {% assign gallery_event = "2026 DE-INBRE Summer Scholar" %}
+        {% assign gallery_author = "Jarry Mbachick, a medical diagnostics major, learned Python by visualizing glucose trajectories in patients with diabetes." %}
+      {% elsif publication.id == "deng_2026" %}
+        {% assign gallery_image = "assets/images/research/2026NISBRE-Deng.jpeg" %}
+        {% assign gallery_event = "2026 NISBRE Conference" %}
+        {% assign gallery_author = "Yixiang Deng presented our recent progress in glucose prediction and control for diabetes." %}
+      {% endif %}
+
+      <div class="col-12 col-md-6 col-xl-4 mb-4">
+        <div class="publication-gallery-item d-block h-100">
+          <img src="{{ gallery_image | relative_url }}" alt="" class="publication-gallery-image">
+          <div class="publication-gallery-caption">
+            <small>{{ gallery_event }}</small>
+            <strong>{{ gallery_author }}</strong>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  {% endfor %}
+</div>
+
+<style>
+  .publication-gallery-item {
+    overflow: hidden;
+    color: inherit;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    transition: box-shadow 160ms ease, transform 160ms ease;
+  }
+
+  .publication-gallery-item:hover,
+  .publication-gallery-item:focus {
+    color: inherit;
+    text-decoration: none;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.12);
+    transform: translateY(-2px);
+  }
+
+  .publication-gallery-image {
+    display: block;
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+  }
+
+  .publication-gallery-caption {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+    padding: 1rem;
+  }
+
+  .publication-gallery-caption small {
+    color: #6c757d;
+  }
+
+  .publication-gallery-caption strong {
+    display: -webkit-box;
+    overflow: hidden;
+    font-size: 0.9rem;
+    line-height: 1.4;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+  }
+
+  .publication-gallery-caption span {
+    font-size: 0.9rem;
+    color: #495057;
+  }
+</style>
+{% endif %}

@@ -19,20 +19,20 @@
   {% for year_group in by_year_desc %}
     {% for publication in year_group.items | sort: "pmid" | reverse %}
       {% assign gallery_image = "assets/images/research/2025INBRE-Winnie.jpeg" %}
-      {% assign gallery_event = "2025 DE-INBRE summer scholar" %}
-      {% assign gallery_author = "Winnie Li" %}
+      {% assign gallery_event = "2025 DE-INBRE Summer Scholar" %}
+      {% assign gallery_author = "Winnie Li, a CIS major, explored stiffness inference with the Helmholtz equation and neural networks in Alzheimer’s disease." %}
       {% if publication.id == "deng_2024" %}
         {% assign gallery_image = "assets/images/research/2025INBRE-Winnie.jpeg" %}
-        {% assign gallery_event = "2025 DE-INBRE summer scholar" %}
-        {% assign gallery_author = "Winnie Li" %}
+        {% assign gallery_event = "2025 DE-INBRE Summer Scholar" %}
+        {% assign gallery_author = "Winnie Li, a CIS major, explored stiffness inference with the Helmholtz equation and neural networks in Alzheimer’s disease." %}
       {% elsif publication.id == "deng_2025" %}
         {% assign gallery_image = "assets/images/research/2026INBRE-Jarry.jpeg" %}
-        {% assign gallery_event = "2026 DE-INBRE summer scholar" %}
-        {% assign gallery_author = "Jarry Mbachick" %}
+        {% assign gallery_event = "2026 DE-INBRE Summer Scholar" %}
+        {% assign gallery_author = "Jarry Mbachick, a Medical Diagnostics major, learned Python by visualizing glucose trajectories in patients with diabetes." %}
       {% elsif publication.id == "deng_2026" %}
         {% assign gallery_image = "assets/images/research/2026NISBRE-Deng.jpeg" %}
-        {% assign gallery_event = "2026 NISBRE conference" %}
-        {% assign gallery_author = "Yixiang Deng" %}
+        {% assign gallery_event = "2026 NISBRE Conference" %}
+        {% assign gallery_author = "Yixiang Deng presented our recent progress in glucose prediction and control for diabetes." %}
       {% endif %}
 
       <div class="col-12 col-md-6 col-xl-4 mb-4">
@@ -81,6 +81,15 @@
 
   .publication-gallery-caption small {
     color: #6c757d;
+  }
+
+  .publication-gallery-caption strong {
+    display: -webkit-box;
+    overflow: hidden;
+    font-size: 0.9rem;
+    line-height: 1.4;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
   }
 
   .publication-gallery-caption span {

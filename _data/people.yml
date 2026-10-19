@@ -61,19 +61,6 @@
   badges:
     - project=project3
 
-- id: Winnie_Li
-  name: Winnie Li
-  role: Member
-  program: null
-  image: assets/images/people/WinnieL.jpg
-  orcid: null
-  email: winnie@udel.edu
-  github: Winnie-Udel
-  twitter: null
-  description: 27' CIS Undergrad
-  status: current
-  badges: null
-
 - id: Tarun_Ravichandar
   name: Tarun Ravichandar
   role: Member
@@ -116,6 +103,19 @@
 #-------------------------------------------------------------------------------------
 # past group members
 #-------------------------------------------------------------------------------------
+
+- id: Winnie_Li
+  name: Winnie Li
+  role: Undergrad (2024 Fall - 2026 Spring, also DE-INBRE Summer Scholar 2025 Summer)
+  program: null
+  image: assets/images/people/WinnieL.jpg
+  orcid: null
+  email: winnie@udel.edu
+  github: Winnie-Udel
+  twitter: null
+  description: 27' CIS Undergrad
+  status: past
+  badges: null
 
 - id: Sam_Zheng
   name: Sam Zheng

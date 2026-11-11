@@ -1,7 +1,7 @@
 ---
 title: Accelerating Biomaterial Discovery via Deep Learning and Multiscale Modeling
 subtitle: null
-description: Integrating deep learning and multiscale simulations, enhanced by parallel computing, to enable rapid, intelligent design of materials.
+description: Integrating deep learning and multiscale modeling for biomaterial discovery, with subprojects on brain stiffness estimation and antibody and nanobody thermal stability and binding affinity prediction.
 order: 1
 active: true
 card_image: "/assets/images/biomaterial.jpg"
@@ -11,4 +11,12 @@ categories: null
 
 <h4>Overview</h4>
 
-We are developing a unified framework to accelerate biomaterial discovery, particularly in biomaterial design, by integrating deep learning with multiscale modeling. Graph neural networks (GNNs) are used to capture intricate spatial and relational features of material structures and molecular assemblies, while large language models (LLMs) trained on sequences provide contextual priors and generative capacity for novel designs. Diffusion models further enable the conditional and controllable generation of molecular details, aligning molecular configurations with desired properties. To ensure scalability and rapid design cycles, all components are optimized for high-performance and parallel computing environments, enabling fast exploration of material design spaces and integration with experimental feedback.
+We combine deep learning with multiscale modeling to accelerate biomaterial discovery and characterize material properties. By connecting experimental data with physical models across scales, we aim to develop efficient methods for predicting material behavior and guiding biomaterial design.
+
+<h4>Subproject 1: Predicting Brain Stiffness from MRE Data</h4>
+
+We use magnetic resonance elastography (MRE) data to predict brain tissue stiffness with **physics-informed neural networks (PINNs)**, **operator learning**, and **optimal transport**. Our goal is to reconstruct spatial stiffness maps from measured tissue motion by combining imaging data with physical models. These methods aim to make brain stiffness estimation more accurate, efficient, and reliable.
+
+<h4>Subproject 2: Predicting Antibody and Nanobody Function</h4>
+
+We combine **language models** and **molecular dynamics simulations** to predict antibody and nanobody function, focusing on thermal stability and binding affinity. Our goal is to predict how well these molecules retain their structure under thermal stress and how strongly they bind to their targets. These predictions aim to guide candidate selection and molecular design toward antibodies and nanobodies with improved stability and target binding.

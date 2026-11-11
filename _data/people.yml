@@ -85,7 +85,8 @@
   twitter: null
   description: 31' CIS PhD Student
   status: current
-  badges: null
+  badges:
+    - project=project2
 
 - id: Petter_Chen
   name: Peter Chen
@@ -98,7 +99,8 @@
   twitter: null
   description: 31' T32 Bioinformatics/Data Science PhD Student (Co-advised with Austin Brockmeier)
   status: current
-  badges: null
+  badges:
+    - project=project1
 
 - id: Jahid_Ahsan_Khan
   name: Jahid Ahsan Khan
@@ -111,7 +113,8 @@
   twitter: null
   description: 31' Bioinformatics/Data Science PhD Student
   status: current
-  badges: null
+  badges:
+    - project=project1
 
 #-------------------------------------------------------------------------------------
 # past group members

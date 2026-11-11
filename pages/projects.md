@@ -1,6 +1,6 @@
 ---
 layout: projects
-title: Current and Past Projects
+title: Current Projects
 subtitle: null
 banner_image: null
 permalink: /projects/

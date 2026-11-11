@@ -9,11 +9,13 @@
 </div>
 
 <div class="row people mb-4">
-  {% for person in status_group.items %}
   <div class="col-12">
-    <p class="mb-1">{{ person.name }}{% if person.role %}, {{ person.role }}{% endif %}</p>
+    <ul class="mb-0" style="padding-inline-start: 3rem;">
+      {% for person in status_group.items %}
+      <li class="mb-1">{{ person.name }}{% if person.role %}, {{ person.role }}{% endif %}</li>
+      {% endfor %}
+    </ul>
   </div>
-  {% endfor %}
 </div>
 {% else %}
 

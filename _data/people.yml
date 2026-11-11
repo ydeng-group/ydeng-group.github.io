@@ -41,7 +41,7 @@
   email: yixiangd@udel.edu
   github: yixiangD
   twitter: null
-  description: "Addr: 18 Amstel Ave, Room 436, Newark DE \n Phone: 302-831-0888"
+  description: "Addr: 591 Collaboration Way, Suite 416, Newark DE \n Phone: 302-831-0888"
   status: current
 
 #-------------------------------------------------------------------------------------
@@ -65,7 +65,7 @@
   name: Tarun Ravichandar
   role: Member
   program: null
-  image: null
+  image: assets/images/vippng.com-face-silhouette-png-56170.png
   orcid: null
   email: null
   github: null
@@ -96,7 +96,20 @@
   email: null
   github: null
   twitter: null
-  description: 31' T32 Bioinformatics PhD Student (Co-advised with Austin Brockmeier)
+  description: 31' T32 Bioinformatics/Data Science PhD Student (Co-advised with Austin Brockmeier)
+  status: current
+  badges: null
+
+- id: Jahid_Ahsan_Khan
+  name: Jahid Ahsan Khan
+  role: Member
+  program: null
+  image: assets/images/vippng.com-face-silhouette-png-56170.png
+  orcid: null
+  email: null
+  github: null
+  twitter: null
+  description: 31' Bioinformatics/Data Science PhD Student
   status: current
   badges: null
 
@@ -108,7 +121,7 @@
   name: Winnie Li
   role: Undergrad (2024 Fall - 2026 Spring, also DE-INBRE Summer Scholar 2025 Summer)
   program: null
-  image: assets/images/people/WinnieL.jpg
+  image: null
   orcid: null
   email: winnie@udel.edu
   github: Winnie-Udel

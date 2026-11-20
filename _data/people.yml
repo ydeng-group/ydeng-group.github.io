@@ -117,6 +117,15 @@
     - project=project1
 
 #-------------------------------------------------------------------------------------
+# collaborators
+#-------------------------------------------------------------------------------------
+- id: Jean_Philippe_Laurenceau
+  name: Jean-Philippe Laurenceau
+  # Photo: https://www.udel.edu/udaily/2020/may/fear-recurrence-breast-cancer-impact-patient-spouse-partner/
+  image: assets/images/people/Jean_Philippe_Laurenceau.jpg
+  status: collaborator
+
+#-------------------------------------------------------------------------------------
 # past group members
 #-------------------------------------------------------------------------------------
 

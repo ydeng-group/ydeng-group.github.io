@@ -1,5 +1,5 @@
 {% assign group_by_status = site.data.people | group_by: "status" %}
-{% assign by_status = group_by_status | sort: "name" %}
+{% assign by_status = group_by_status %}
 
 {% for status_group in by_status %}
 
@@ -21,7 +21,7 @@
 
 {% if status_group.name == "collaborator" %}
 <div class="col mb-4 pt-4" style="border-top: 1px solid #ccc;">
-  <h4>{{ status_group.name | capitalize }}s and colleagues</h4>
+  <h4>Collaborators</h4>
 </div>
 {% endif %}
 
